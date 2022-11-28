@@ -1,0 +1,22 @@
+insert into products (title, cost)
+values
+    ('tomato', 10.0),
+    ('potato', 20.0),
+    ('cucumber', 120.0),
+    ('tv', 1000.0),
+    ('car', 1000000.0),
+    ('fish', 500.0),
+    ('butter', 120.0),
+    ('milk', 50.0),
+    ('dress', 2000.0),
+    ('shoes', 5000.0),
+    ('hummer', 500.0),
+    ('paper', 200.0),
+    ('laptop', 50000.0),
+    ('bread', 40.0),
+    ('cheese', 800.0),
+    ('carrot', 30.0),
+    ('book', 500.0),
+    ('socks', 100.0),
+    ('meat', 800.0),
+    ('ice cream', 50.0);
