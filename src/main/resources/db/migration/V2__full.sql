@@ -1,0 +1,22 @@
+insert into products (title, cost, secret_key)
+values
+    ('tomato', 10.0, 'qwerty'),
+    ('potato', 20.0, 'qwerty'),
+    ('cucumber', 120.0, 'qwerty'),
+    ('tv', 1000.0, 'qwerty'),
+    ('car', 1000000.0, 'qwerty'),
+    ('fish', 500.0, 'qwerty'),
+    ('butter', 120.0, 'qwerty'),
+    ('milk', 50.0, 'qwerty'),
+    ('dress', 2000.0, 'qwerty'),
+    ('shoes', 5000.0, 'qwerty'),
+    ('hummer', 500.0, 'qwerty'),
+    ('paper', 200.0, 'qwerty'),
+    ('laptop', 50000.0, 'qwerty'),
+    ('bread', 40.0, 'qwerty'),
+    ('cheese', 800.0, 'qwerty'),
+    ('carrot', 30.0, 'qwerty'),
+    ('book', 500.0, 'qwerty'),
+    ('socks', 100.0, 'qwerty'),
+    ('meat', 800.0, 'qwerty'),
+    ('ice cream', 50.0, 'qwerty');
