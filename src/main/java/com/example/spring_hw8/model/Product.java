@@ -22,4 +22,7 @@ public class Product {
 
     @Column(name = "cost")
     private Double cost;
+
+    @Column(name = "secret_key")
+    private String secretKey;
 }
